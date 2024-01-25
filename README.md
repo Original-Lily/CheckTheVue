@@ -4,7 +4,7 @@ Check the Vue is a weather application I made utilising open weather map API and
 
 ## Installation & Setup
 
-To install and run CheckTheVue yourself, you need to setup VueJS as well as create your own API keys for <a href="https://openweathermap.org/api"OpenWeatherMap</a> as well as <a href="https://openai.com/>OpenAi's API</a> and input them into the designated code below.
+To install and run CheckTheVue yourself, you need to setup VueJS as well as create your own API keys for [Open Weather Map](https://openweathermap.org/api) & [Open Ai API](https://https://openai.com/) and input them into the designated code below.
 
 1. Clone the repository:
 
