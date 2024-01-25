@@ -46,3 +46,7 @@ When ran locally, it costs roughtly £0.02 for every image generated, with the b
 ## TODO
 
 As mentioned before I plan for this to become an online service, however right now there is no way for me to reliably host this without it costing a fortune in API requests, I have placed this project on the backburner so I may continue with others. On a later date I intent to update the system being used to generate imaged using docker, however you are more than welcome to do so yourself should you wish!
+
+![image](https://github.com/Original-Lily/CheckTheVue/assets/87139613/3115d92b-41ff-4f07-8f2f-b964179f58b6)
+![image](https://github.com/Original-Lily/CheckTheVue/assets/87139613/533f2e10-6b21-4e19-81d6-f0f21666fcb6)
+
